@@ -7,7 +7,7 @@
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
-@media (mind-width: 1200px) {
+@media (min-width: 1200px) {
   body {
     background: turquoise;
   }
